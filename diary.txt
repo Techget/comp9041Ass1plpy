@@ -1,0 +1,9 @@
+Date		Start	Stop	Activity	Comments
+03/09/16	14:30	17:30	coding		Pass the basic iota.pl test
+10/09/16	18:30	22:00	coding		subset1
+16/09/16	18:30	23:00	coding&debug	subset2&subset3
+21/09/16 	09:00	12:30	coding		partial subset4
+22/09/16	13:00	18:00	coding&debug	subset4
+29/09/16	13:00	22:00	coding&debug	partial subset5
+01/10/16	9:30	12:30	test&demo case	fix some bug
+
